@@ -1,0 +1,3 @@
+MongoDb C#(https://www.youtube.com/watch?v=gM4m5LizxL8)
+https://www.mongodb.com/developer/quickstart/csharp-crud-tutorial/
+https://imasters.com.br/dotnet/mongodb-crud-com-c
